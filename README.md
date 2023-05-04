@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Braah+One&pause=1000&color=FFFFFF&background=03030300&width=414&height=41&lines=Welcome+to+my+Perfil;Settle+where+you+want...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Braah+One&pause=1000&color=FFFFFF&background=03030300&width=414&height=41&lines=Welcome+to+my+Profile;Settle+where+you+want...)](https://git.io/typing-svg)
 
 ![image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)
 
