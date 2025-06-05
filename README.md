@@ -12,6 +12,11 @@
 
   
  <h2> My Stats </h2>
+<div>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umthiago&show_icons=true&theme=react&hide_border=true"/> 
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umthiago&layout=compact&theme=react&hide_border=true"/>
+  <br>
+</div>
 
 
 
