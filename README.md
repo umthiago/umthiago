@@ -11,13 +11,12 @@
 <a href= https://github.com/umthiago?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='40px' src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> </a>
 
   
- <h2> My Stats </h2>
-<div>
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umthiago&show_icons=true&theme=react&hide_border=true"/> 
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umthiago&layout=compact&theme=react&hide_border=true"/>
-  <br>
-</div>
+<b>My GitHub Stats</b>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umthiago&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umthiago&layout=compact&langs_count=168&theme=dark"/>
+</div>
 
 
 
