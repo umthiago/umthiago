@@ -10,14 +10,11 @@
 <a href= https://github.com/umthiago?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/umthiago?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='40px' src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> </a>
 
-  
+
+
 <b>My GitHub Stats</b>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umthiago&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umthiago&layout=compact&langs_count=168&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielCM16&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCM16&layout=compact&langs_count=168&theme=dark"/>
 </div>
-
-
-
-
