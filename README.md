@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Braah+One&pause=1000&color=FFFFFF&background=03030300&width=414&height=41&lines=Welcome+to+my+Profile;Settle+where+you+want...)](https://git.io/typing-svg)
 
-![image](https://media4.giphy.com/media/NKEt9elQ5cR68/giphy.gif)
-
 <h2> The Skills in Programing </h2>
 <a href= https://github.com/umthiago?tab=repositories&q=&type=&language=javascript&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/umthiago?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
